@@ -77,6 +77,7 @@ FUTO is a new organization founded to develop technology and share knowledge tha
 - X/Twitter Announcments & News -  [https://x.com/FreenetOrg](https://x.com/FreenetOrg)
 - Reddit Freenet Community -  [https://www.reddit.com/r/Freenet/](https://www.reddit.com/r/Freenet/)
 - Show HackerNews - [Freenet alpha, a drop-in decentralized replacement for the web](https://news.ycombinator.com/item?id=46547216)
+- Free Network Group -  [github.com](https://github.com/orgs/free-network/discussions) [![github](/img/github.svg)](https://free-network.github.io/)
 
 
 --------------------
@@ -102,6 +103,7 @@ _tools_
 _works in progress_
 
 - <b>Pizza Order Manager</b> - [![github](/img/github.svg)](https://github.com/realraum/freenet-pizza) Yet another pizza order manager, this time on freenet
+- <b>FreeTalk</b> -  [![github](/img/github.svg)](https://github.com/free-network/FreeTalk) Community chat app of Free Network Group
 - <b>Promethean Forge room</b> - [![github](/img/github.svg)](https://github.com/prometheanforgesynergies/freenet-forge-room) A sovereign space that defines shared state for the Promethean Forge
 - <b>Freenet Web</b> - [![github](/img/github.svg)](https://github.com/Sam-Max/Freenet-web) Deploy secure, signature-gated static websites on the Freenet network
 - <b>Microblogging</b> - [MicroBlog](https://github.com/freenet/freenet-core/tree/main/apps/freenet-microblogging) Example personal blog
