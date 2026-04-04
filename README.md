@@ -95,6 +95,9 @@ _apps / sites_
 - <b>River</b> -  Decentralized group chat built on Freenet without centralized servers. - http://127.0.0.1:7509/v1/contract/web/raAqMhMG7KUpXBU2SxgCQ3Vh4PYjttxdSWd9ftV7RLv/
 - <b>Pastebin</b> -  Text sharing on a decentralized network. No accounts, tracking, or takedowns. - http://127.0.0.1:7509/v1/contract/web/7fT9i1Ye9ZSA5GvetRBXDnKCraqut5PPn2B6ovaMwwL3/#/
 - <b>Freenet Search Engine</b> - [![github](/img/github.svg)](https://github.com/TDiffff/freenet-search-engine) Decentralized search engine for discovering web apps on Freenet's network - http://127.0.0.1:7509/v1/contract/web/FinderTZGHAY8DWSeQPRMN9K3p884WsLTUCjjH4QSZqH/
+- <b>Freenet Delta</b> - [![github](/img/github.svg)](https://github.com/freenet/delta) Decentralized website builder on Freenet - http://127.0.0.1:7509/v1/contract/web/EqJ5YpEEV3XLqEvKWLQHFhGAac2qXzSUoE6k2zbdnXBr/#2nxche6uJj/1/home
+- <b>Pizza Order Manager</b> - [![github](/img/github.svg)](https://github.com/realraum/freenet-pizza) Yet another pizza order manager, this time on freenet
+- http://localhost:7509/v1/contract/web/HGC7cKPnCuHTeAUftUqKsWiWmYWSmxDNTxY21vK4nqjw/
 
 _tools_
 
@@ -102,7 +105,7 @@ _tools_
 
 _works in progress_
 
-- <b>Pizza Order Manager</b> - [![github](/img/github.svg)](https://github.com/realraum/freenet-pizza) Yet another pizza order manager, this time on freenet
+
 - <b>FreeTalk</b> -  [![github](/img/github.svg)](https://github.com/free-network/FreeTalk) Community chat app of Free Network Group
 - <b>Promethean Forge room</b> - [![github](/img/github.svg)](https://github.com/prometheanforgesynergies/freenet-forge-room) A sovereign space that defines shared state for the Promethean Forge
 - <b>Freenet Web</b> - [![github](/img/github.svg)](https://github.com/Sam-Max/Freenet-web) Deploy secure, signature-gated static websites on the Freenet network
