@@ -98,7 +98,7 @@ _apps / sites_
 - <b>Freenet Delta</b> - [![github](/img/github.svg)](https://github.com/freenet/delta) Decentralized website builder on Freenet - http://127.0.0.1:7509/v1/contract/web/EqJ5YpEEV3XLqEvKWLQHFhGAac2qXzSUoE6k2zbdnXBr/#2nxche6uJj/1/home
 - <b>Pizza Order Manager</b> - [![github](/img/github.svg)](https://github.com/realraum/freenet-pizza) Yet another pizza order manager, this time on freenet
 - http://localhost:7509/v1/contract/web/HGC7cKPnCuHTeAUftUqKsWiWmYWSmxDNTxY21vK4nqjw/
-- <b>Microblogging</b> - [MicroBlog]([https://github.com/freenet/freenet-microblogging) Personal blogging site
+- <b>Microblogging</b> -  [![github](/img/github.svg)](https://github.com/freenet/freenet-microblogging) Personal blogging site
 
 _tools_
 
