@@ -98,6 +98,7 @@ _apps / sites_
 - <b>Freenet Delta</b> - [![github](/img/github.svg)](https://github.com/freenet/delta) Decentralized website builder on Freenet - http://127.0.0.1:7509/v1/contract/web/EqJ5YpEEV3XLqEvKWLQHFhGAac2qXzSUoE6k2zbdnXBr/#2nxche6uJj/1/home
 - <b>Pizza Order Manager</b> - [![github](/img/github.svg)](https://github.com/realraum/freenet-pizza) Yet another pizza order manager, this time on freenet
 - http://localhost:7509/v1/contract/web/HGC7cKPnCuHTeAUftUqKsWiWmYWSmxDNTxY21vK4nqjw/
+- <b>Microblogging</b> - [MicroBlog]([https://github.com/freenet/freenet-microblogging) Personal blogging site
 
 _tools_
 
@@ -105,11 +106,9 @@ _tools_
 
 _works in progress_
 
-
 - <b>FreeTalk</b> -  [![github](/img/github.svg)](https://github.com/free-network/FreeTalk) Community chat app of Free Network Group
 - <b>Promethean Forge room</b> - [![github](/img/github.svg)](https://github.com/prometheanforgesynergies/freenet-forge-room) A sovereign space that defines shared state for the Promethean Forge
 - <b>Freenet Web</b> - [![github](/img/github.svg)](https://github.com/Sam-Max/Freenet-web) Deploy secure, signature-gated static websites on the Freenet network
-- <b>Microblogging</b> - [MicroBlog](https://github.com/freenet/freenet-core/tree/main/apps/freenet-microblogging) Example personal blog
 - <b>Email App</b> - [Email App](https://github.com/freenet/freenet-core/tree/main/apps/freenet-email-app) Example email app
 
 _offline (not updating)_
