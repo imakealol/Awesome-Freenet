@@ -74,7 +74,7 @@ _Podcasts_
 - [Agent Skills](https://github.com/freenet/freenet-agent-skills)
 - [Freenet.org Site](https://github.com/freenet/web)
 - [Telemetry Dashboard](https://github.com/freenet/freenet-telemetry-dashboard)
-
+- [Freenet Git](https://github.com/freenet/freenet-git)
 
 --------------------
 
