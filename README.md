@@ -55,6 +55,13 @@ FUTO is a new organization founded to develop technology and share knowledge tha
 - 2024 - [Ian Clarke Breaks Down His Vision for a Decentralized Internet](https://www.youtube.com/watch?v=enTAromEeHo)
 - 2026 - [Freenet Lives! And You Can Use It!](https://www.youtube.com/watch?v=3SxNBz1VTE0)
 
+<br>
+_Podcasts_
+
+> Freenet - Decentralize Everything 2026
+
+- [How do you trust strangers on the Internet?](https://www.youtube.com/watch?v=cCQfjw_Q1zk) April 29
+- [Can we decentralize Git with Freenet?](https://www.youtube.com/watch?v=JZIS3pOrJyw) May 2
 
 --------------------
 
