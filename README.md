@@ -56,6 +56,7 @@ FUTO is a new organization founded to develop technology and share knowledge tha
 - 2026 - [Freenet Lives! And You Can Use It!](https://www.youtube.com/watch?v=3SxNBz1VTE0)
 
 <br>
+
 _Podcasts_
 
 > Freenet - Decentralize Everything 2026
